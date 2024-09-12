@@ -10,8 +10,6 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 cmap=LinearSegmentedColormap.from_list('rg',["r", "w", "g"], N=256)
 
-
-
 # Create main header
 st.header("Welcome to the Options Price Calculator")
 
