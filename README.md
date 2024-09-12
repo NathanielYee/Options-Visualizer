@@ -10,4 +10,5 @@
 - rf: risk free rate
 
 Denoted Here is the Formula I Used for My Calculations
-![BSM]("https://www.gstatic.com/education/formulas2/553212783/en/black_scholes_model.svg")
+![Black-Scholes Model](https://www.gstatic.com/education/formulas2/553212783/en/black_scholes_model.svg)
+
