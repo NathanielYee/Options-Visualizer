@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="$USER_HOME$/miniconda3/envs/db/lib/python3.12/site-packages/numpy/core/tests/data/umath-validation-set-arccosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniconda3/envs/db/lib/python3.12/site-packages/numpy/core/tests/data/umath-validation-set-arcsinh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniconda3/envs/db/lib/python3.12/site-packages/numpy/core/tests/data/umath-validation-set-arctan.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniconda3/envs/db/lib/python3.12/site-packages/numpy/core/tests/data/umath-validation-set-cosh.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniconda3/envs/db/lib/python3.12/site-packages/numpy/core/tests/data/umath-validation-set-exp2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniconda3/envs/db/lib/python3.12/site-packages/numpy/core/tests/data/umath-validation-set-log1p.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/miniconda3/envs/db/lib/python3.12/site-packages/numpy/core/tests/data/umath-validation-set-sin.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/app/src/output.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
