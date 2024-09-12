@@ -2,13 +2,12 @@ from tkinter.messagebox import showerror
 import logging
 logging.basicConfig(filename='app.log', level=logging.ERROR)
 import streamlit as st
+st.error('An error has occured')
 import pandas as pd
 import seaborn as sns
 import numpy as np
 import math
 from scipy.stats import norm
-import requests
-import yfinance as yf
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 cmap=LinearSegmentedColormap.from_list('rg',["r", "w", "g"], N=256)
@@ -17,10 +16,6 @@ cmap=LinearSegmentedColormap.from_list('rg',["r", "w", "g"], N=256)
 
 # Create main header
 st.header("Welcome to the Options Price Calculator")
-
-
-# Extract Data from Yahoo Finance API
-
 
 # Create Input Fields For Stock Information
 
@@ -81,7 +76,7 @@ def bsm(S,k,vol,t,rf):
 
 # Calculate Put Price
 
- # put equation assumes normally distributed and mult by 100
+ # put equation assumes normally distributed and mult by 100 for total contract price
 
 st.markdown(f"""
     <div style="display: flex; justify-content: space-around;">
