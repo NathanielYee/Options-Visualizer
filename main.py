@@ -1,8 +1,6 @@
-from tkinter.messagebox import showerror
 import logging
 logging.basicConfig(filename='app.log', level=logging.ERROR)
 import streamlit as st
-st.error('An error has occured')
 import pandas as pd
 import seaborn as sns
 import numpy as np
